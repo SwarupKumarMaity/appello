@@ -1,0 +1,27 @@
+{
+  "name": "appello",
+  "version": "1.0.0",
+  "description": "A GenLayer Intelligent Contract implementing a dispute resolution system with a built-in appeal phase. The core novelty is that the second consensus round consumes **new input** — it is not a re-run of the same prompt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwarupKumarMaity/appello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SwarupKumarMaity/appello/issues"
+  },
+  "homepage": "https://github.com/SwarupKumarMaity/appello#readme",
+  "dependencies": {
+    "genlayer-js": "^1.1.8"
+  },
+  "devDependencies": {
+    "vite": "^8.0.14"
+  }
+}
